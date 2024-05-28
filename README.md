@@ -1,18 +1,13 @@
-- 👋 Hi, I’m Samarth Mathur
-- 👨‍🎓 An undergraduate pursing B.Tech in Computer Science Engineering.  
-<!---
-- I'm pursuing my bachelor's degree in Engineering - branch - Computer Science.
+<h1 align="center">Hi 👋, Myself Samarth Mathur</h1>
+<h3 align="center"></h3>
+- 🤝 Always looking forward to collaborate.<br>
+- 📫 You can reach me at:- samarthmathur199@gmail.com.
 
-- 👀 I’m interested in ...
+<!--<h3 align="left">Connect with me:</h3>-->
+<p align="left">
+</p>
 
-- 🌱 I’m currently learning ...
- 
--💞️ I’m looking to collaborate on ...
---->
-- 🤝 Always looking forward to collaborate.
-- 📫 You can reach me at:- samarthmathur199@gmail.com.  
+<!--<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p> -->
 
-<!---
-samarth-mathur12/samarth-mathur12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarth-mathur12&show_icons=true&locale=en&layout=compact" alt="samarth-mathur12" /></p>
